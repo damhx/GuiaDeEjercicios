@@ -12,3 +12,8 @@ Ejercicio cardiovascular que mejora la resistencia y fuerza muscular utilizando 
 1. Pedalea a un ritmo moderado a intenso durante 30-60 minutos.
 2. Alterna entre tramos de alta y baja intensidad.
 3. Mantén una postura correcta, con espalda recta y hombros relajados.
+
+## Consejos
+- Aumenta la intensidad gradualmente.
+- Usa un casco y equipo adecuado.
+- Hidratación constante para evitar calambres.
