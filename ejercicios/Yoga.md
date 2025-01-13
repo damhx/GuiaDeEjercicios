@@ -12,3 +12,8 @@ Práctica física y mental que combina posturas (asanas), respiración y meditac
 1. Realiza una secuencia de posturas de pie, equilibrio y estiramientos.
 2. Mantén cada postura entre 20-60 segundos.
 3. Respira profundamente y con control durante toda la práctica.
+
+## Consejos
+- Escucha tu cuerpo y evita forzar las posturas.
+- Practica regularmente para ver mejoras.
+- Usa props (bloques, correas) si es necesario para mayor comodidad.
