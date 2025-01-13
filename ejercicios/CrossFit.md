@@ -12,3 +12,8 @@ Entrenamiento de alta intensidad que combina levantamiento de pesas, ejercicios 
 - Realiza entrenamientos con intervalos de alta intensidad (WOD).
 - Combina ejercicios como saltos, levantamiento de pesas, burpees y carreras.
 - Ejecuta rondas o repeticiones con descansos cortos.
+
+## Consejos
+- Enfócate en la técnica antes de aumentar la carga o la velocidad.
+- Escucha a tu cuerpo para evitar sobrecargas.
+- Realiza calentamientos adecuados para prevenir lesiones.
