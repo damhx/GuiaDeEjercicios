@@ -7,7 +7,7 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 - [Ejercicio Cardio](ejercicios/Cardio.md): Mejora tu resistencia y salud cardiovascular.
 - [Ejercicio de Fuerza](ejercicios/Fuerza.md): Aumenta la masa muscular y la fuerza.
 - [Ejercicio de Flexibilidad](ejercicios/Flexibilidad.md): Mejora la movilidad y reduce el riesgo de lesiones.
-- [Ejercicio de Entrenamiento Funcional](ejercicios/Entrenamiento_Funcional.md): Mejora la fuerza en movimientos cotidianos.
+- [Ejercicio de Entrenamiento Funcional](ejercicios/Entrenamiento-Funcional.md): Mejora la fuerza en movimientos cotidianos.
 - [Ejercicio de Yoga](ejercicios/Yoga.md): Fomenta la relajación y la flexibilidad.
 - [Ejercicio de Pilates](ejercicios/Pilates.md): Fortalece el núcleo y mejora la postura.
 - [Ejercicio de Ciclismo](ejercicios/Ciclismo.md): Gran ejercicio cardiovascular de bajo impacto.
