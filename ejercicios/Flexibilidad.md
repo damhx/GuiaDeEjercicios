@@ -12,3 +12,8 @@ Ejercicios que mejoran la capacidad de las articulaciones y músculos para estir
 1. Realiza estiramientos después del calentamiento o al finalizar el entrenamiento.
 2. Mantén cada estiramiento entre 20-30 segundos.
 3. Estira de manera controlada, sin rebotes.
+
+## Consejos
+- No forces los estiramientos.
+- Estira todo el cuerpo, especialmente las áreas más tensas.
+- Respira profundamente mientras estiras.
