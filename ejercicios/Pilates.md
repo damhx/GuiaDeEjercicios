@@ -12,3 +12,8 @@ Método de ejercicio que mejora la fuerza central, flexibilidad y control del cu
 1. Realiza movimientos controlados, concentrándote en la respiración.
 2. Haz 8-12 repeticiones de cada ejercicio.
 3. Mantén una alineación correcta del cuerpo en todo momento.
+
+## Consejos
+- Enfócate en la calidad de los movimientos, no en la cantidad.
+- Practica de manera constante para mejores resultados.
+- Usa una colchoneta cómoda y estable.
