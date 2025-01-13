@@ -16,3 +16,5 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 - [Ejercicio de CrossFit](ejercicios/CrossFit.md): Entrenamiento intensivo y funcional.
 
 ¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!
+
+Final
