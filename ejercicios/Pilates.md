@@ -7,3 +7,8 @@ Método de ejercicio que mejora la fuerza central, flexibilidad y control del cu
 - Fortalece el core (zona abdominal y lumbar).
 - Mejora la postura y el equilibrio.
 - Aumenta la flexibilidad y reduce el dolor lumbar.
+
+## Instrucciones
+1. Realiza movimientos controlados, concentrándote en la respiración.
+2. Haz 8-12 repeticiones de cada ejercicio.
+3. Mantén una alineación correcta del cuerpo en todo momento.
