@@ -12,3 +12,8 @@ Ejercicios que aumentan la fuerza muscular mediante el uso de cargas externas.
 2. Realiza ejercicios compuestos (sentadillas, press, etc.).
 3. Haz 3-5 series de 8-12 repeticiones.
 4. Descansa 60-90 segundos entre series.
+
+## Consejos
+- Aumenta el peso gradualmente.
+- Mantén buena técnica.
+- Escucha a tu cuerpo y descansa.
